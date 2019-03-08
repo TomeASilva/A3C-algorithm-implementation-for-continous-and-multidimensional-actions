@@ -51,6 +51,6 @@ The implementation is in script.py file
   
 #### Performance 
 
-![Performance]()https://github.com/TomeASilva/A3C-algorithm-implementation-for-continous-and-multidimensional-actions/blob/master/supporting_images/Figure_1.png "Performance")
+![Performance](https://github.com/TomeASilva/A3C-algorithm-implementation-for-continous-and-multidimensional-actions/blob/master/supporting_images/Figure_1.png "Performance")
 
   
