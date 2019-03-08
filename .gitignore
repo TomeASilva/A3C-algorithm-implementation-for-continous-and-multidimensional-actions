@@ -1,0 +1,9 @@
+Trained_model
+models_checkpoints
+.vscode
+__pycache__
+design_implementation.md
+test.py
+testing_grounds.py
+summary
+tempCodeRunnerFile.py
