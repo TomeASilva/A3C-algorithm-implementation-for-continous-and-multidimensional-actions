@@ -52,5 +52,7 @@ The implementation is in script.py file
 #### Performance 
 
 ![Performance](https://github.com/TomeASilva/A3C-algorithm-implementation-for-continous-and-multidimensional-actions/blob/master/supporting_images/Figure_1.png "Performance")
+The performance is quite noisy, but still respects the conditions for it to be considered solved. The noisy solution maybe due to early
+stopping, but it seems that the reward structure does not translate itself into landings that would be considered save. For example landing with just a leg inside the landing zone seems to be as good as landing with both legs inside. Landing in very few time steps is also considered better, encouraging maneuvers performed with high acceleration. 
 
   
